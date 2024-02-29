@@ -5,10 +5,10 @@ def create(colecao, docs, many = False):
         return db[colecao].insert_many(docs)
     return db[colecao].insert_one(docs)
 
-def read(colecao, filtro = {}, many = False):
+def read(colecao, filtroConsulta = {}, filtroSaida = {}, many = False):
     if many:
-        return [document for document in db[colecao].find(filtro)]
-    return db[colecao].find_one(filtro)
+        return [document for document in db[colecao].find(filtroConsulta, filtroSaida)]
+    return db[colecao].find_one(filtroConsulta, filtroSaida)
 
 def update(colecao, atualizacao, filtro = {}, many = False):
     if many:
