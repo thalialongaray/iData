@@ -1,0 +1,352 @@
+[
+    {
+        "amb_Adjacencia": [],
+        "amb_Obj_j": 1,
+        "amb_Total_Intera": 28,
+        "amb_Total_Nova": 19,
+        "amb_Total_Valida": 28
+    },
+    {
+        "amb_Adjacencia": [],
+        "amb_Obj_j": 27,
+        "amb_Total_Intera": 24,
+        "amb_Total_Nova": 17,
+        "amb_Total_Valida": 24
+    },
+    {
+        "amb_Adjacencia": [],
+        "amb_Obj_j": 41,
+        "amb_Total_Intera": 24,
+        "amb_Total_Nova": 19,
+        "amb_Total_Valida": 24
+    },
+    {
+        "amb_Adjacencia": [],
+        "amb_Obj_j": 29,
+        "amb_Total_Intera": 22,
+        "amb_Total_Nova": 19,
+        "amb_Total_Valida": 22
+    },
+    {
+        "amb_Adjacencia": [],
+        "amb_Obj_j": 28,
+        "amb_Total_Intera": 21,
+        "amb_Total_Nova": 17,
+        "amb_Total_Valida": 21
+    },
+    {
+        "amb_Adjacencia": [],
+        "amb_Obj_j": 5,
+        "amb_Total_Intera": 20,
+        "amb_Total_Nova": 17,
+        "amb_Total_Valida": 20
+    },
+    {
+        "amb_Adjacencia": [],
+        "amb_Obj_j": 6,
+        "amb_Total_Intera": 19,
+        "amb_Total_Nova": 13,
+        "amb_Total_Valida": 19
+    },
+    {
+        "amb_Adjacencia": [],
+        "amb_Obj_j": 8,
+        "amb_Total_Intera": 19,
+        "amb_Total_Nova": 15,
+        "amb_Total_Valida": 19
+    },
+    {
+        "amb_Adjacencia": [],
+        "amb_Obj_j": 10,
+        "amb_Total_Intera": 19,
+        "amb_Total_Nova": 16,
+        "amb_Total_Valida": 19
+    },
+    {
+        "amb_Adjacencia": [],
+        "amb_Obj_j": 14,
+        "amb_Total_Intera": 19,
+        "amb_Total_Nova": 15,
+        "amb_Total_Valida": 19
+    },
+    {
+        "amb_Adjacencia": [],
+        "amb_Obj_j": 17,
+        "amb_Total_Intera": 19,
+        "amb_Total_Nova": 17,
+        "amb_Total_Valida": 19
+    },
+    {
+        "amb_Adjacencia": [],
+        "amb_Obj_j": 19,
+        "amb_Total_Intera": 19,
+        "amb_Total_Nova": 16,
+        "amb_Total_Valida": 19
+    },
+    {
+        "amb_Adjacencia": [],
+        "amb_Obj_j": 23,
+        "amb_Total_Intera": 19,
+        "amb_Total_Nova": 16,
+        "amb_Total_Valida": 19
+    },
+    {
+        "amb_Adjacencia": [],
+        "amb_Obj_j": 36,
+        "amb_Total_Intera": 19,
+        "amb_Total_Nova": 17,
+        "amb_Total_Valida": 19
+    },
+    {
+        "amb_Adjacencia": [],
+        "amb_Obj_j": 15,
+        "amb_Total_Intera": 18,
+        "amb_Total_Nova": 15,
+        "amb_Total_Valida": 18
+    },
+    {
+        "amb_Adjacencia": [],
+        "amb_Obj_j": 20,
+        "amb_Total_Intera": 18,
+        "amb_Total_Nova": 16,
+        "amb_Total_Valida": 18
+    },
+    {
+        "amb_Adjacencia": [],
+        "amb_Obj_j": 26,
+        "amb_Total_Intera": 18,
+        "amb_Total_Nova": 12,
+        "amb_Total_Valida": 18
+    },
+    {
+        "amb_Adjacencia": [],
+        "amb_Obj_j": 37,
+        "amb_Total_Intera": 18,
+        "amb_Total_Nova": 10,
+        "amb_Total_Valida": 18
+    },
+    {
+        "amb_Adjacencia": [],
+        "amb_Obj_j": 0,
+        "amb_Total_Intera": 17,
+        "amb_Total_Nova": 14,
+        "amb_Total_Valida": 17
+    },
+    {
+        "amb_Adjacencia": [],
+        "amb_Obj_j": 7,
+        "amb_Total_Intera": 17,
+        "amb_Total_Nova": 11,
+        "amb_Total_Valida": 17
+    },
+    {
+        "amb_Adjacencia": [],
+        "amb_Obj_j": 16,
+        "amb_Total_Intera": 17,
+        "amb_Total_Nova": 13,
+        "amb_Total_Valida": 17
+    },
+    {
+        "amb_Adjacencia": [],
+        "amb_Obj_j": 18,
+        "amb_Total_Intera": 17,
+        "amb_Total_Nova": 14,
+        "amb_Total_Valida": 17
+    },
+    {
+        "amb_Adjacencia": [],
+        "amb_Obj_j": 4,
+        "amb_Total_Intera": 16,
+        "amb_Total_Nova": 11,
+        "amb_Total_Valida": 16
+    },
+    {
+        "amb_Adjacencia": [],
+        "amb_Obj_j": 25,
+        "amb_Total_Intera": 16,
+        "amb_Total_Nova": 14,
+        "amb_Total_Valida": 16
+    },
+    {
+        "amb_Adjacencia": [],
+        "amb_Obj_j": 38,
+        "amb_Total_Intera": 16,
+        "amb_Total_Nova": 14,
+        "amb_Total_Valida": 16
+    },
+    {
+        "amb_Adjacencia": [],
+        "amb_Obj_j": 40,
+        "amb_Total_Intera": 16,
+        "amb_Total_Nova": 13,
+        "amb_Total_Valida": 16
+    },
+    {
+        "amb_Adjacencia": [],
+        "amb_Obj_j": 42,
+        "amb_Total_Intera": 16,
+        "amb_Total_Nova": 12,
+        "amb_Total_Valida": 16
+    },
+    {
+        "amb_Adjacencia": [],
+        "amb_Obj_j": 21,
+        "amb_Total_Intera": 15,
+        "amb_Total_Nova": 10,
+        "amb_Total_Valida": 15
+    },
+    {
+        "amb_Adjacencia": [],
+        "amb_Obj_j": 32,
+        "amb_Total_Intera": 15,
+        "amb_Total_Nova": 12,
+        "amb_Total_Valida": 15
+    },
+    {
+        "amb_Adjacencia": [],
+        "amb_Obj_j": 2,
+        "amb_Total_Intera": 14,
+        "amb_Total_Nova": 12,
+        "amb_Total_Valida": 14
+    },
+    {
+        "amb_Adjacencia": [],
+        "amb_Obj_j": 3,
+        "amb_Total_Intera": 14,
+        "amb_Total_Nova": 13,
+        "amb_Total_Valida": 14
+    },
+    {
+        "amb_Adjacencia": [],
+        "amb_Obj_j": 12,
+        "amb_Total_Intera": 14,
+        "amb_Total_Nova": 12,
+        "amb_Total_Valida": 14
+    },
+    {
+        "amb_Adjacencia": [],
+        "amb_Obj_j": 30,
+        "amb_Total_Intera": 14,
+        "amb_Total_Nova": 11,
+        "amb_Total_Valida": 14
+    },
+    {
+        "amb_Adjacencia": [],
+        "amb_Obj_j": 34,
+        "amb_Total_Intera": 14,
+        "amb_Total_Nova": 12,
+        "amb_Total_Valida": 14
+    },
+    {
+        "amb_Adjacencia": [],
+        "amb_Obj_j": 46,
+        "amb_Total_Intera": 14,
+        "amb_Total_Nova": 11,
+        "amb_Total_Valida": 14
+    },
+    {
+        "amb_Adjacencia": [],
+        "amb_Obj_j": 47,
+        "amb_Total_Intera": 14,
+        "amb_Total_Nova": 14,
+        "amb_Total_Valida": 14
+    },
+    {
+        "amb_Adjacencia": [],
+        "amb_Obj_j": 9,
+        "amb_Total_Intera": 13,
+        "amb_Total_Nova": 11,
+        "amb_Total_Valida": 13
+    },
+    {
+        "amb_Adjacencia": [],
+        "amb_Obj_j": 24,
+        "amb_Total_Intera": 13,
+        "amb_Total_Nova": 12,
+        "amb_Total_Valida": 13
+    },
+    {
+        "amb_Adjacencia": [],
+        "amb_Obj_j": 39,
+        "amb_Total_Intera": 13,
+        "amb_Total_Nova": 10,
+        "amb_Total_Valida": 13
+    },
+    {
+        "amb_Adjacencia": [],
+        "amb_Obj_j": 43,
+        "amb_Total_Intera": 13,
+        "amb_Total_Nova": 11,
+        "amb_Total_Valida": 13
+    },
+    {
+        "amb_Adjacencia": [],
+        "amb_Obj_j": 44,
+        "amb_Total_Intera": 13,
+        "amb_Total_Nova": 13,
+        "amb_Total_Valida": 13
+    },
+    {
+        "amb_Adjacencia": [],
+        "amb_Obj_j": 48,
+        "amb_Total_Intera": 13,
+        "amb_Total_Nova": 10,
+        "amb_Total_Valida": 13
+    },
+    {
+        "amb_Adjacencia": [],
+        "amb_Obj_j": 11,
+        "amb_Total_Intera": 12,
+        "amb_Total_Nova": 11,
+        "amb_Total_Valida": 12
+    },
+    {
+        "amb_Adjacencia": [],
+        "amb_Obj_j": 33,
+        "amb_Total_Intera": 12,
+        "amb_Total_Nova": 9,
+        "amb_Total_Valida": 12
+    },
+    {
+        "amb_Adjacencia": [],
+        "amb_Obj_j": 45,
+        "amb_Total_Intera": 12,
+        "amb_Total_Nova": 12,
+        "amb_Total_Valida": 12
+    },
+    {
+        "amb_Adjacencia": [],
+        "amb_Obj_j": 22,
+        "amb_Total_Intera": 10,
+        "amb_Total_Nova": 9,
+        "amb_Total_Valida": 10
+    },
+    {
+        "amb_Adjacencia": [],
+        "amb_Obj_j": 31,
+        "amb_Total_Intera": 10,
+        "amb_Total_Nova": 7,
+        "amb_Total_Valida": 10
+    },
+    {
+        "amb_Adjacencia": [],
+        "amb_Obj_j": 35,
+        "amb_Total_Intera": 10,
+        "amb_Total_Nova": 10,
+        "amb_Total_Valida": 10
+    },
+    {
+        "amb_Adjacencia": [],
+        "amb_Obj_j": 49,
+        "amb_Total_Intera": 9,
+        "amb_Total_Nova": 8,
+        "amb_Total_Valida": 9
+    },
+    {
+        "amb_Adjacencia": [],
+        "amb_Obj_j": 13,
+        "amb_Total_Intera": 8,
+        "amb_Total_Nova": 8,
+        "amb_Total_Valida": 8
+    }
+]

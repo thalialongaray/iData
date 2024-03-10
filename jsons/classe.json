@@ -1,0 +1,262 @@
+[
+    {
+        "classe_Id": 0,
+        "classe_Nome": "Ar condicionado",
+        "classe_Funcao": []
+    },
+    {
+        "classe_Id": 1,
+        "classe_Nome": "Comedouro de água para animais de estimação",
+        "classe_Funcao": []
+    },
+    {
+        "classe_Id": 2,
+        "classe_Nome": "Aquecedor",
+        "classe_Funcao": []
+    },
+    {
+        "classe_Id": 3,
+        "classe_Nome": "Robô Vácuo",
+        "classe_Funcao": []
+    },
+    {
+        "classe_Id": 4,
+        "classe_Nome": "Ventilador",
+        "classe_Funcao": []
+    },
+    {
+        "classe_Id": 5,
+        "classe_Nome": "Cortina",
+        "classe_Funcao": []
+    },
+    {
+        "classe_Id": 6,
+        "classe_Nome": "Purificador de Ar",
+        "classe_Funcao": []
+    },
+    {
+        "classe_Id": 7,
+        "classe_Nome": "Desumidificador",
+        "classe_Funcao": []
+    },
+    {
+        "classe_Id": 8,
+        "classe_Nome": "Switch",
+        "classe_Funcao": []
+    },
+    {
+        "classe_Id": 9,
+        "classe_Nome": "Soquete",
+        "classe_Funcao": []
+    },
+    {
+        "classe_Id": 10,
+        "classe_Nome": "Faixa de energia",
+        "classe_Funcao": []
+    },
+    {
+        "classe_Id": 11,
+        "classe_Nome": "Interruptor de cortina",
+        "classe_Funcao": []
+    },
+    {
+        "classe_Id": 12,
+        "classe_Nome": "Robô Cortina",
+        "classe_Funcao": []
+    },
+    {
+        "classe_Id": 13,
+        "classe_Nome": "Termostato",
+        "classe_Funcao": []
+    },
+    {
+        "classe_Id": 14,
+        "classe_Nome": "Disjuntor",
+        "classe_Funcao": []
+    },
+    {
+        "classe_Id": 15,
+        "classe_Nome": "Abridor de porta de garagem",
+        "classe_Funcao": []
+    },
+    {
+        "classe_Id": 16,
+        "classe_Nome": "Sensor de Temperatura e Umidade",
+        "classe_Funcao": []
+    },
+    {
+        "classe_Id": 17,
+        "classe_Nome": "Sensor de janela de porta",
+        "classe_Funcao": []
+    },
+    {
+        "classe_Id": 18,
+        "classe_Nome": "Detector de fumaça",
+        "classe_Funcao": []
+    },
+    {
+        "classe_Id": 19,
+        "classe_Nome": "Detector de Gás",
+        "classe_Funcao": []
+    },
+    {
+        "classe_Id": 20,
+        "classe_Nome": "Detector PIR",
+        "classe_Funcao": []
+    },
+    {
+        "classe_Id": 21,
+        "classe_Nome": "Detector de Água",
+        "classe_Funcao": []
+    },
+    {
+        "classe_Id": 22,
+        "classe_Nome": "Sensor PM2.5",
+        "classe_Funcao": []
+    },
+    {
+        "classe_Id": 23,
+        "classe_Nome": "Sensor de Presença Humana",
+        "classe_Funcao": []
+    },
+    {
+        "classe_Id": 24,
+        "classe_Nome": "Botão de Emergência",
+        "classe_Funcao": []
+    },
+    {
+        "classe_Id": 25,
+        "classe_Nome": "Sensor de Luminância",
+        "classe_Funcao": []
+    },
+    {
+        "classe_Id": 26,
+        "classe_Nome": "Fechadura",
+        "classe_Funcao": []
+    },
+    {
+        "classe_Id": 27,
+        "classe_Nome": "Câmera Inteligente",
+        "classe_Funcao": []
+    },
+    {
+        "classe_Id": 28,
+        "classe_Nome": "Alarme da Sirene",
+        "classe_Funcao": []
+    },
+    {
+        "classe_Id": 29,
+        "classe_Nome": "Sensor de vibração",
+        "classe_Funcao": []
+    },
+    {
+        "classe_Id": 30,
+        "classe_Nome": "Detector de CO2",
+        "classe_Funcao": []
+    },
+    {
+        "classe_Id": 31,
+        "classe_Nome": "Detector de CO",
+        "classe_Funcao": []
+    },
+    {
+        "classe_Id": 32,
+        "classe_Nome": "Detector de Formaldeído",
+        "classe_Funcao": []
+    },
+    {
+        "classe_Id": 33,
+        "classe_Nome": "Detector de metano",
+        "classe_Funcao": []
+    },
+    {
+        "classe_Id": 34,
+        "classe_Nome": "Sensor de Composto Orgânico Volátil",
+        "classe_Funcao": []
+    },
+    {
+        "classe_Id": 35,
+        "classe_Nome": "Sensor de Pressão",
+        "classe_Funcao": []
+    },
+    {
+        "classe_Id": 36,
+        "classe_Nome": "Luz",
+        "classe_Funcao": []
+    },
+    {
+        "classe_Id": 37,
+        "classe_Nome": "Faixa Clara",
+        "classe_Funcao": []
+    },
+    {
+        "classe_Id": 38,
+        "classe_Nome": "Luz ambiente",
+        "classe_Funcao": []
+    },
+    {
+        "classe_Id": 39,
+        "classe_Nome": "Sequência leve",
+        "classe_Funcao": []
+    },
+    {
+        "classe_Id": 40,
+        "classe_Nome": "Luz de teto",
+        "classe_Funcao": []
+    },
+    {
+        "classe_Id": 41,
+        "classe_Nome": "Luz do ventilador de teto",
+        "classe_Funcao": []
+    },
+    {
+        "classe_Id": 42,
+        "classe_Nome": "Luz Ambiente",
+        "classe_Funcao": []
+    },
+    {
+        "classe_Id": 43,
+        "classe_Nome": "Luz do sensor de movimento",
+        "classe_Funcao": []
+    },
+    {
+        "classe_Id": 44,
+        "classe_Nome": "Luz do umidificador",
+        "classe_Funcao": []
+    },
+    {
+        "classe_Id": 45,
+        "classe_Nome": "Interruptor Dimmer",
+        "classe_Funcao": []
+    },
+    {
+        "classe_Id": 46,
+        "classe_Nome": "Dimmer",
+        "classe_Funcao": []
+    },
+    {
+        "classe_Id": 47,
+        "classe_Nome": "Luz Solar",
+        "classe_Funcao": []
+    },
+    {
+        "classe_Id": 48,
+        "classe_Nome": "Controle Remoto",
+        "classe_Funcao": []
+    },
+    {
+        "classe_Id": 49,
+        "classe_Nome": "Chaleira Inteligente",
+        "classe_Funcao": []
+    },
+    {
+        "classe_Id": 50,
+        "classe_Nome": "Cafeteira",
+        "classe_Funcao": []
+    },
+    {
+        "classe_Id": 51,
+        "classe_Nome": "Medidor de eletricidade inteligente",
+        "classe_Funcao": []
+    }
+]

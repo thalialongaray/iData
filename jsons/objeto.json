@@ -1,0 +1,585 @@
+[
+    {
+        "obj_Id": 3,
+        "obj_MACRede": "78:CD:EF:12:34:56",
+        "obj_Nome": "Medidor de Umidade",
+        "obj_Proprietario": "Agricultura S.A.",
+        "obj_Modelo": "MH-100",
+        "obj_Marca": "AgriTech",
+        "obj_Classe": 3,
+        "obj_Funcao": [
+            "Monitoramento",
+            "Controle Automático"
+        ],
+        "obj_Restricao": [
+            "Horário de Rega"
+        ],
+        "obj_Limitacao": [
+            "Umidade Mínima: 30%",
+            "Umidade Máxima: 70%"
+        ],
+        "obj_Acesso": 1,
+        "obj_Localizacao": {
+            "Latitude": -30.0346,
+            "Longitude": -51.2177
+        },
+        "obj_Qualificacao": 4,
+        "obj_Status": 1,
+        "NivelUmidade": 45.2,
+        "LimiteUmidadeBaixa": 35.0
+    },
+    {
+        "obj_Id": 4,
+        "obj_MACRede": "AB:67:89:CD:EF:01",
+        "obj_Nome": "Fechadura Principal",
+        "obj_Proprietario": "Residência Familiar",
+        "obj_Modelo": "SmartLock-200",
+        "obj_Marca": "SecureHome",
+        "obj_Classe": 1,
+        "obj_Funcao": [
+            "Controle de Acesso",
+            "Monitoramento"
+        ],
+        "obj_Restricao": [
+            "Horário de Bloqueio"
+        ],
+        "obj_Limitacao": [],
+        "obj_Acesso": 2,
+        "obj_Localizacao": {
+            "Latitude": -22.9068,
+            "Longitude": -43.1729
+        },
+        "obj_Qualificacao": 5,
+        "obj_Status": 1,
+        "EstadoFechadura": true,
+        "UltimoAcesso": "2024-02-21T15:30:00"
+    },
+    {
+        "obj_Id": 5,
+        "obj_MACRede": "EF:45:67:89:AB:CD",
+        "obj_Nome": "Monitor Ambiental",
+        "obj_Proprietario": "Ecologia Ltda.",
+        "obj_Modelo": "EnviroSense-5000",
+        "obj_Marca": "EcoTech",
+        "obj_Classe": 2,
+        "obj_Funcao": [
+            "Monitoramento de Qualidade do Ar",
+            "Alerta de Poluição"
+        ],
+        "obj_Restricao": [
+            "Horário de Coleta"
+        ],
+        "obj_Limitacao": [
+            "Partículas Suspensas: 0-50 µg/m³",
+            "Dióxido de Carbono: 300-1000 ppm"
+        ],
+        "obj_Acesso": 3,
+        "obj_Localizacao": {
+            "Latitude": -34.6086,
+            "Longitude": -58.3884
+        },
+        "obj_Qualificacao": 4,
+        "obj_Status": 1,
+        "NivelPoluicao": "Moderado",
+        "UltimaColeta": "2024-02-21T08:00:00"
+    },
+    {
+        "obj_Id": 6,
+        "obj_MACRede": "01:23:45:67:89:EF",
+        "obj_Nome": "Veículo Conectado",
+        "obj_Proprietario": "Frota Express",
+        "obj_Modelo": "SmartCar-2025",
+        "obj_Marca": "AutoTech",
+        "obj_Classe": 4,
+        "obj_Funcao": [
+            "Monitoramento de Frota",
+            "Rastreamento"
+        ],
+        "obj_Restricao": [
+            "Horário de Operação"
+        ],
+        "obj_Limitacao": [
+            "Velocidade Máxima: 120 km/h",
+            "Área de Atuação: Nacional"
+        ],
+        "obj_Acesso": 2,
+        "obj_Localizacao": {
+            "Latitude": -23.550520,
+            "Longitude": -46.633308
+        },
+        "obj_Qualificacao": 5,
+        "obj_Status": 1,
+        "EstadoVeiculo": "Em Operação",
+        "UltimaAtualizacao": "2024-02-21T12:45:00"
+    },
+    {
+        "obj_Id": 7,
+        "obj_MACRede": "67:89:AB:CD:EF:01",
+        "obj_Nome": "Lâmpada Inteligente",
+        "obj_Proprietario": "SmartHome Inc.",
+        "obj_Modelo": "SmartBulb-2022",
+        "obj_Marca": "IlluminateTech",
+        "obj_Classe": 1,
+        "obj_Funcao": [
+            "Iluminação",
+            "Controle Remoto"
+        ],
+        "obj_Restricao": [
+            "Horário de Desligamento"
+        ],
+        "obj_Limitacao": [
+            "Intensidade Mínima: 20%",
+            "Intensidade Máxima: 100%"
+        ],
+        "obj_Acesso": 3,
+        "obj_Localizacao": {
+            "Latitude": 40.7128,
+            "Longitude": -74.0060
+        },
+        "obj_Qualificacao": 4,
+        "obj_Status": 1,
+        "EstadoLampada": "Ligada",
+        "IntensidadeAtual": 80
+    },
+    {
+        "obj_Id": 8,
+        "obj_MACRede": "EF:01:23:45:67:89",
+        "obj_Nome": "Sensor de Temperatura",
+        "obj_Proprietario": "ClimateControl Ltd.",
+        "obj_Modelo": "TempSense-300",
+        "obj_Marca": "ClimateTech",
+        "obj_Classe": 2,
+        "obj_Funcao": [
+            "Monitoramento de Temperatura",
+            "Alerta de Condições Extremas"
+        ],
+        "obj_Restricao": [
+            "Horário de Leitura"
+        ],
+        "obj_Limitacao": [
+            "Temperatura Mínima: -10°C",
+            "Temperatura Máxima: 40°C"
+        ],
+        "obj_Acesso": 2,
+        "obj_Localizacao": {
+            "Latitude": 34.0522,
+            "Longitude": -118.2437
+        },
+        "obj_Qualificacao": 5,
+        "obj_Status": 1,
+        "TemperaturaAtual": 25.5
+    },
+    {
+        "obj_Id": 9,
+        "obj_MACRede": "AB:CD:EF:01:23:45",
+        "obj_Nome": "TV Inteligente",
+        "obj_Proprietario": "Entertainment Hub",
+        "obj_Modelo": "SmartTV-4K",
+        "obj_Marca": "EntertainTech",
+        "obj_Classe": 3,
+        "obj_Funcao": [
+            "Transmissão de Conteúdo",
+            "Controle por Voz"
+        ],
+        "obj_Restricao": [
+            "Horário de Desligamento"
+        ],
+        "obj_Limitacao": [
+            "Resolução Máxima: 4K",
+            "Canais Permitidos: 100-200"
+        ],
+        "obj_Acesso": 1,
+        "obj_Localizacao": {
+            "Latitude": 51.5074,
+            "Longitude": -0.1278
+        },
+        "obj_Qualificacao": 4,
+        "obj_Status": 1,
+        "CanalAtual": 120,
+        "VolumeAtual": 30
+    },
+    {
+        "obj_Id": 10,
+        "obj_MACRede": "01:23:45:67:89:EF",
+        "obj_Nome": "Ar-Condicionado Inteligente",
+        "obj_Proprietario": "CoolTech Solutions",
+        "obj_Modelo": "SmartCool-5000",
+        "obj_Marca": "CoolTech",
+        "obj_Classe": 4,
+        "obj_Funcao": [
+            "Controle de Temperatura",
+            "Programação de Horários"
+        ],
+        "obj_Restricao": [
+            "Horário de Desligamento Noturno"
+        ],
+        "obj_Limitacao": [
+            "Temperatura Mínima: 18°C",
+            "Temperatura Máxima: 25°C"
+        ],
+        "obj_Acesso": 3,
+        "obj_Localizacao": {
+            "Latitude": -33.8688,
+            "Longitude": 151.2093
+        },
+        "obj_Qualificacao": 5,
+        "obj_Status": 1,
+        "ModoOperacao": "Refrigeração",
+        "TemperaturaAtual": 22.5
+    },
+    {
+        "obj_Id": 11,
+        "obj_MACRede": "CD:EF:01:23:45:67",
+        "obj_Nome": "Controlador Infravermelho",
+        "obj_Proprietario": "SmartHome Automation",
+        "obj_Modelo": "IR-Control-100",
+        "obj_Marca": "AutomateTech",
+        "obj_Classe": 3,
+        "obj_Funcao": [
+            "Controle Remoto Universal",
+            "Integração com Dispositivos IR"
+        ],
+        "obj_Restricao": [
+            "Horário de Programação"
+        ],
+        "obj_Limitacao": [
+            "Compatível com 10000 Dispositivos IR"
+        ],
+        "obj_Acesso": 1,
+        "obj_Localizacao": {
+            "Latitude": 37.7749,
+            "Longitude": -122.4194
+        },
+        "obj_Qualificacao": 4,
+        "obj_Status": 1,
+        "DispositivosControlados": [
+            "TV",
+            "Ar-Condicionado",
+            "Lâmpadas"
+        ],
+        "ModoOperacao": "Modo Padrão"
+    },
+    {
+        "obj_Id": 12,
+        "obj_MACRede": "45:67:89:AB:CD:EF",
+        "obj_Nome": "Controle de Irrigação Inteligente",
+        "obj_Proprietario": "GreenTech Gardens",
+        "obj_Modelo": "SmartSprinkler-2000",
+        "obj_Marca": "GreenTech",
+        "obj_Classe": 2,
+        "obj_Funcao": [
+            "Programação de Irrigação",
+            "Sensor de Umidade do Solo"
+        ],
+        "obj_Restricao": [
+            "Horário de Funcionamento"
+        ],
+        "obj_Limitacao": [
+            "Volume Mínimo: 500ml/dia",
+            "Volume Máximo: 2L/dia"
+        ],
+        "obj_Acesso": 2,
+        "obj_Localizacao": {
+            "Latitude": -23.550520,
+            "Longitude": -46.633308
+        },
+        "obj_Qualificacao": 4,
+        "obj_Status": 1,
+        "ProgramacaoIrrigacao": [
+            {
+                "Dia": "Segunda",
+                "Hora": "08:00"
+            },
+            {
+                "Dia": "Quarta",
+                "Hora": "18:00"
+            }
+        ],
+        "SensorUmidadeSolo": 65
+    },
+    {
+        "obj_Id": 13,
+        "obj_MACRede": "01:23:45:67:89:EF",
+        "obj_Nome": "Monitor de Consumo de Energia",
+        "obj_Proprietario": "EcoEnergy Solutions",
+        "obj_Modelo": "PowerMonitor-500",
+        "obj_Marca": "EcoEnergy",
+        "obj_Classe": 4,
+        "obj_Funcao": [
+            "Medição de Consumo Elétrico",
+            "Alerta de Consumo Excessivo"
+        ],
+        "obj_Restricao": [
+            "Horário de Monitoramento"
+        ],
+        "obj_Limitacao": [
+            "Limite Máximo: 500 kWh/mês"
+        ],
+        "obj_Acesso": 3,
+        "obj_Localizacao": {
+            "Latitude": 40.7128,
+            "Longitude": -74.0060
+        },
+        "obj_Qualificacao": 5,
+        "obj_Status": 1,
+        "ConsumoAtual": 300,
+        "LimiteAlerta": 450
+    },
+    {
+        "obj_Id": 14,
+        "obj_MACRede": "EF:01:23:45:67:89",
+        "obj_Nome": "Câmera de Segurança Inteligente",
+        "obj_Proprietario": "SecureTech Solutions",
+        "obj_Modelo": "SmartCam-720p",
+        "obj_Marca": "SecureTech",
+        "obj_Classe": 1,
+        "obj_Funcao": [
+            "Vigilância Remota",
+            "Detecção de Movimento"
+        ],
+        "obj_Restricao": [
+            "Horário de Gravação"
+        ],
+        "obj_Limitacao": [
+            "Resolução Máxima: 720p",
+            "Armazenamento Local: 16GB"
+        ],
+        "obj_Acesso": 1,
+        "obj_Localizacao": {
+            "Latitude": 34.0522,
+            "Longitude": -118.2437
+        },
+        "obj_Qualificacao": 4,
+        "obj_Status": 1,
+        "ModoGravacao": "Contínua",
+        "DetecaoMovimentoAtivada": true
+    },
+    {
+        "obj_Id": 3,
+        "obj_MACRede": "78:CD:EF:12:34:56",
+        "obj_Nome": "Medidor de Umidade",
+        "obj_Proprietario": "Agricultura S.A.",
+        "obj_Modelo": "MH-100",
+        "obj_Marca": "AgriTech",
+        "obj_Classe": 3,
+        "obj_Funcao": [
+            "Monitoramento",
+            "Controle Automático"
+        ],
+        "obj_Restricao": [
+            "Horário de Rega"
+        ],
+        "obj_Limitacao": [
+            "Umidade Mínima: 30%",
+            "Umidade Máxima: 70%"
+        ],
+        "obj_Acesso": 1,
+        "obj_Localizacao": {
+            "Latitude": -30.0346,
+            "Longitude": -51.2177
+        },
+        "obj_Qualificacao": 4,
+        "obj_Status": 1,
+        "NivelUmidade": 45.2,
+        "LimiteUmidadeBaixa": 35.0
+    },
+    {
+        "obj_Id": 4,
+        "obj_MACRede": "AB:67:89:CD:EF:01",
+        "obj_Nome": "Fechadura Principal",
+        "obj_Proprietario": "Residência Familiar",
+        "obj_Modelo": "SmartLock-200",
+        "obj_Marca": "SecureHome",
+        "obj_Classe": 1,
+        "obj_Funcao": [
+            "Controle de Acesso",
+            "Monitoramento"
+        ],
+        "obj_Restricao": [
+            "Horário de Bloqueio"
+        ],
+        "obj_Limitacao": [],
+        "obj_Acesso": 2,
+        "obj_Localizacao": {
+            "Latitude": -22.9068,
+            "Longitude": -43.1729
+        },
+        "obj_Qualificacao": 5,
+        "obj_Status": 1,
+        "EstadoFechadura": true,
+        "UltimoAcesso": "2024-02-21T15:30:00"
+    },
+    {
+        "obj_Id": 5,
+        "obj_MACRede": "EF:45:67:89:AB:CD",
+        "obj_Nome": "Monitor Ambiental",
+        "obj_Proprietario": "Ecologia Ltda.",
+        "obj_Modelo": "EnviroSense-5000",
+        "obj_Marca": "EcoTech",
+        "obj_Classe": 2,
+        "obj_Funcao": [
+            "Monitoramento de Qualidade do Ar",
+            "Alerta de Poluição"
+        ],
+        "obj_Restricao": [
+            "Horário de Coleta"
+        ],
+        "obj_Limitacao": [
+            "Partículas Suspensas: 0-50 µg/m³",
+            "Dióxido de Carbono: 300-1000 ppm"
+        ],
+        "obj_Acesso": 3,
+        "obj_Localizacao": {
+            "Latitude": -34.6086,
+            "Longitude": -58.3884
+        },
+        "obj_Qualificacao": 4,
+        "obj_Status": 1,
+        "NivelPoluicao": "Moderado",
+        "UltimaColeta": "2024-02-21T08:00:00"
+    },
+    {
+        "obj_Id": 6,
+        "obj_MACRede": "01:23:45:67:89:EF",
+        "obj_Nome": "Veículo Conectado",
+        "obj_Proprietario": "Frota Express",
+        "obj_Modelo": "SmartCar-2025",
+        "obj_Marca": "AutoTech",
+        "obj_Classe": 4,
+        "obj_Funcao": [
+            "Monitoramento de Frota",
+            "Rastreamento"
+        ],
+        "obj_Restricao": [
+            "Horário de Operação"
+        ],
+        "obj_Limitacao": [
+            "Velocidade Máxima: 120 km/h",
+            "Área de Atuação: Nacional"
+        ],
+        "obj_Acesso": 2,
+        "obj_Localizacao": {
+            "Latitude": -23.550520,
+            "Longitude": -46.633308
+        },
+        "obj_Qualificacao": 5,
+        "obj_Status": 1,
+        "EstadoVeiculo": "Em Operação",
+        "UltimaAtualizacao": "2024-02-21T12:45:00"
+    },
+    {
+        "obj_Id": 7,
+        "obj_MACRede": "67:89:AB:CD:EF:01",
+        "obj_Nome": "Lâmpada Inteligente",
+        "obj_Proprietario": "SmartHome Inc.",
+        "obj_Modelo": "SmartBulb-2022",
+        "obj_Marca": "IlluminateTech",
+        "obj_Classe": 1,
+        "obj_Funcao": [
+            "Iluminação",
+            "Controle Remoto"
+        ],
+        "obj_Restricao": [
+            "Horário de Desligamento"
+        ],
+        "obj_Limitacao": [
+            "Intensidade Mínima: 20%",
+            "Intensidade Máxima: 100%"
+        ],
+        "obj_Acesso": 3,
+        "obj_Localizacao": {
+            "Latitude": 40.7128,
+            "Longitude": -74.0060
+        },
+        "obj_Qualificacao": 4,
+        "obj_Status": 1,
+        "EstadoLampada": "Ligada",
+        "IntensidadeAtual": 80
+    },
+    {
+        "obj_Id": 8,
+        "obj_MACRede": "EF:01:23:45:67:89",
+        "obj_Nome": "Sensor de Temperatura",
+        "obj_Proprietario": "ClimateControl Ltd.",
+        "obj_Modelo": "TempSense-300",
+        "obj_Marca": "ClimateTech",
+        "obj_Classe": 2,
+        "obj_Funcao": [
+            "Monitoramento de Temperatura",
+            "Alerta de Condições Extremas"
+        ],
+        "obj_Restricao": [
+            "Horário de Leitura"
+        ],
+        "obj_Limitacao": [
+            "Temperatura Mínima: -10°C",
+            "Temperatura Máxima: 40°C"
+        ],
+        "obj_Acesso": 2,
+        "obj_Localizacao": {
+            "Latitude": 34.0522,
+            "Longitude": -118.2437
+        },
+        "obj_Qualificacao": 5,
+        "obj_Status": 1,
+        "TemperaturaAtual": 25.5
+    },
+    {
+        "obj_Id": 9,
+        "obj_MACRede": "AB:CD:EF:01:23:45",
+        "obj_Nome": "TV Inteligente",
+        "obj_Proprietario": "Entertainment Hub",
+        "obj_Modelo": "SmartTV-4K",
+        "obj_Marca": "EntertainTech",
+        "obj_Classe": 3,
+        "obj_Funcao": [
+            "Transmissão de Conteúdo",
+            "Controle por Voz"
+        ],
+        "obj_Restricao": [
+            "Horário de Desligamento"
+        ],
+        "obj_Limitacao": [
+            "Resolução Máxima: 4K",
+            "Canais Permitidos: 100-200"
+        ],
+        "obj_Acesso": 1,
+        "obj_Localizacao": {
+            "Latitude": 51.5074,
+            "Longitude": -0.1278
+        },
+        "obj_Qualificacao": 4,
+        "obj_Status": 1,
+        "CanalAtual": 120,
+        "VolumeAtual": 30
+    },
+    {
+        "obj_Id": 10,
+        "obj_MACRede": "01:23:45:67:89:EF",
+        "obj_Nome": "Ar-Condicionado Inteligente",
+        "obj_Proprietario": "CoolTech Solutions",
+        "obj_Modelo": "SmartCool-5000",
+        "obj_Marca": "CoolTech",
+        "obj_Classe": 4,
+        "obj_Funcao": [
+            "Controle de Temperatura",
+            "Programação de Horários"
+        ],
+        "obj_Restricao": [
+            "Horário de Desligamento Noturno"
+        ],
+        "obj_Limitacao": [
+            "Temperatura Mínima: 18°C",
+            "Temperatura Máxima: 25°C"
+        ],
+        "obj_Acesso": 3,
+        "obj_Localizacao": {
+            "Latitude": -33.8688,
+            "Longitude": 151.2093
+        },
+        "obj_Qualificacao": 5,
+        "obj_Status": 1,
+        "ModoOperacao": "Refrigeração",
+        "TemperaturaAtual": 22.5
+    }
+]
