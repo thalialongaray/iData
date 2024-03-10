@@ -1,6 +1,8 @@
 from iData import *
 import json, time, random
 
+client, db = conectar()
+
 def interagir():
     arq = open('interacao.json', "r", encoding='utf-8')
     docs = json.loads(arq.read())
