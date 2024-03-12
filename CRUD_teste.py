@@ -3,7 +3,7 @@ from iData import *
 client, db = conectar()
 
 def createTeste():
-    f = open('docs_teste.json', 'r', encoding='utf-8')
+    f = open('jsons/docs_teste.json', 'r', encoding='utf-8')
     docs = json.loads(f.read())
     print(create(db, 'objeto', docs['objeto'], True))
     print(create(db, 'interacao', docs['interacao'], True))
