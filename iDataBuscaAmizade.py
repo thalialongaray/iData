@@ -26,8 +26,8 @@ vColecoes = ["objeto", "amizade_pagerank"]
 numeroDeDocs = [10, 50, 100, 1000]
 
 for i in numeroDeDocs:
-    arqObjeto = open(f'{i}objetos.json', "r", encoding='utf-8')
-    arqAmizade = open(f'{i}amizades.json', "r", encoding='utf-8')
+    arqObjeto = open(f'jsons/{i}objetos.json', "r", encoding='utf-8')
+    arqAmizade = open(f'jsons/{i}amizades.json', "r", encoding='utf-8')
     docs = {"objeto": [], "amizade_pagerank": []}
     docs["objeto"] = json.loads(arqObjeto.read())
     docs["amizade_pagerank"] = json.loads(arqAmizade.read()) 
