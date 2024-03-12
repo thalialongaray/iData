@@ -4,7 +4,7 @@ import json, time, random
 client, db = conectar()
 
 def interagir():
-    arq = open('interacao.json', "r", encoding='utf-8')
+    arq = open('jsons/interacao.json', "r", encoding='utf-8')
     docs = json.loads(arq.read())
     arq.close()
 
