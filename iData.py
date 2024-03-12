@@ -19,7 +19,7 @@ def desconectar(client):
 
 def popularColecoes(db, colecoes):
     for i in colecoes:
-        arq = open(f'{i}.json', "r", encoding='utf-8')
+        arq = open(f'jsons/{i}.json', "r", encoding='utf-8')
         docs = json.loads(arq.read())
         db[i].insert_many(docs)
         arq.close()
