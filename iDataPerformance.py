@@ -1,7 +1,7 @@
 from iData import *
 import json, time
 
-arq1k = open(f'docs1k.json', "r", encoding='utf-8')
+arq1k = open('jsons/docs1k.json', "r", encoding='utf-8')
 docs1k = json.loads(arq1k.read())
 arq1k.close()
 
